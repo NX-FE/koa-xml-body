@@ -1,5 +1,5 @@
 {
-  "name": "koa-xml-body",
+  "name": "@ne_fe/koa-xml-body",
   "version": "2.0.0",
   "description": "koa middleware to parse xml request body",
   "main": "lib/index.js",
